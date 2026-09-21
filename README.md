@@ -123,33 +123,6 @@ Projeto de Web Scraping aplicado a um site de anime, com apresentação dos dado
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=jrstevani&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jrstevani&bg_color=0d1117&color=c9d1d9&line=2196F3&point=ffffff&area=true&area_color=0d47a1&hide_border=true&custom_title=Atividade%20no%20GitHub" width="100%" alt="GitHub Activity Graph" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jrstevani&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-
-<div align="center">
-
-
-</div>
-
-
 
 <div align="center">
 
