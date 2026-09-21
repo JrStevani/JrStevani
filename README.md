@@ -1,4 +1,3 @@
-
 <div align="center">
 
 
@@ -11,12 +10,14 @@
 <a href="https://github.com/jrstevani">
   <img src="https://img.shields.io/github/followers/jrstevani?label=Seguidores&style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=2196F3" />
 </a>
+
 <a href="https://github.com/jrstevani?tab=repositories">
   <img src="https://img.shields.io/badge/Reposit%C3%B3rios-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2196F3" />
 </a>
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -25,15 +26,6 @@
 </div>
 
 
-
-Atuo como *Analista de Suporte*, trabalhando diretamente com tecnologia, sistemas, bancos de dados e resolução de problemas.
-
-Tenho experiência e interesse em diferentes áreas do desenvolvimento e da sustentação de sistemas, utilizando principalmente:
-
-
-Gosto de entender o problema antes de tentar resolver, investigar a causa e transformar uma necessidade em uma solução funcional.
-
-Este perfil reúne projetos, estudos e experimentos que fazem parte da minha evolução técnica.
 
 <div align="center">
 
@@ -45,13 +37,13 @@ Este perfil reúne projetos, estudos e experimentos que fazem parte da minha evo
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
 
 </div>
 
@@ -72,7 +64,7 @@ Este perfil reúne projetos, estudos e experimentos que fazem parte da minha evo
 </p>
 
 <p align="center">
-Projeto disponibilizado como aplicação web para simplificar o acesso e utilização das funcionalidades desenvolvidas.
+Aplicação web desenvolvida para simplificar o acesso e a utilização das funcionalidades do projeto.
 </p>
 
 </td>
@@ -88,7 +80,7 @@ Projeto disponibilizado como aplicação web para simplificar o acesso e utiliza
 </p>
 
 <p align="center">
-Projeto desenvolvido utilizando React, reunindo conceitos e práticas de desenvolvimento front-end.
+Projeto desenvolvido com React, colocando em prática conceitos de desenvolvimento front-end.
 </p>
 
 </td>
@@ -104,7 +96,7 @@ Projeto desenvolvido utilizando React, reunindo conceitos e práticas de desenvo
 </p>
 
 <p align="center">
-Projeto relacionado a Web Scraping aplicado a um site de anime, com apresentação dos dados em uma interface web.
+Projeto de Web Scraping aplicado a um site de anime, com apresentação dos dados coletados em uma interface web.
 </p>
 
 </td>
@@ -113,6 +105,7 @@ Projeto relacionado a Web Scraping aplicado a um site de anime, com apresentaç�
 </table>
 
 </div>
+
 
 
 <div align="center">
@@ -126,6 +119,7 @@ Projeto relacionado a Web Scraping aplicado a um site de anime, com apresentaç�
 </a>
 
 </div>
+
 
 <br>
 
@@ -150,13 +144,12 @@ Projeto relacionado a Web Scraping aplicado a um site de anime, com apresentaç�
 </div>
 
 
-
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrstevani/jrstevani/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrstevani/jrstevani/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jrstevani/jrstevani/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jrstevani/jrstevani/output/github-snake.svg">
 </picture>
 
 </div>
@@ -189,11 +182,9 @@ Projeto relacionado a Web Scraping aplicado a um site de anime, com apresentaç�
 
 </div>
 
+<br>
 
 <div align="center">
-
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,50:071a2e,100:0d1117&height=120&section=footer" width="100%" />
 
